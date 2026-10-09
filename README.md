@@ -215,4 +215,4 @@ This incident showed that detecting an attack once it starts is too late. The ne
 
 Open to remote roles in **Network Automation, Network Security or Observability**, and to consulting for mid-size ISPs on **NetFlow deployment and DDoS readiness**.
 
-[LinkedIn](https://linkedin.com/in/your-profile) · your.email@example.com
+www.linkedin.com/in/javier-mejia-59261416a
