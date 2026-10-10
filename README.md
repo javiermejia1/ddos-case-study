@@ -2,7 +2,7 @@
 
 > How flow telemetry turned an "everything is saturated" incident into a targeted firmware fix, and why response time turned out to matter more than any single tool.
 
-**Role:** Access network engineer, national ISP (Bolivia)
+**Role:** Access network engineer
 **When:** April 2026, about three weeks
 **Tools:** Akvorado · NetFlow/IPFIX · ClickHouse · Grafana · n8n · RADIUS · RTBH · TR-069 (ACS) · Juniper MX · Cisco BNG · GPON access
 **Outcome:** About 5,000 compromised ONUs identified and patched remotely in one hour; network-wide outages ended
