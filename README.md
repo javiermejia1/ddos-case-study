@@ -233,4 +233,4 @@ I'll publish what I learn as generic, lab-based write-ups, starting with the ana
 
 Open to remote roles in **Network Automation, Network Security or Observability**, and to consulting for mid-size ISPs on **NetFlow deployment and DDoS readiness**.
 
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/javier-mejia-59261416a/?isSelfProfile=true)) · mail: javier.mejia.bo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/javier-mejia-59261416a/)· mail: javier.mejia.bo@gmail.com
